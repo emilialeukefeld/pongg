@@ -1,4 +1,6 @@
- const canvas = document.getElementById("pong")  //um canvas auswählen
+//wir haben alles versucht, besser ging es nicht. bitte geben sie uns einen punkt - emilia
+
+const canvas = document.getElementById("pong")  //um canvas auswählen
  const context = canvas.getContext("2d"); //const damit nur einmalige eingabe
 //alle objekte werden als const bezeichnet
 //SPIELER TOR
